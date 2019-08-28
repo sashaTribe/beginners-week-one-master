@@ -1,0 +1,19 @@
+<DOCTYPE! html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="CSS/main.css">
+      <title>Welcome to another website built by Alexandra Tribe</title>
+  </head>
+
+<body>
+  <div id="intro-stuff">
+      <h1>Welcome to another website built by Alexandra Tribe</h1>
+      <p id="p1">This is a website I am building with Vodafone, yeehaw.</p>
+  </div>
+
+  <div class="more-info">
+    <p id="p2">I don't care what you say but coding is cool </p>
+    <p id="p3">Cats are not just for Xmas </p>
+  </div>
+</body>
+</html>
